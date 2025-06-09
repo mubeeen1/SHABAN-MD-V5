@@ -39,14 +39,14 @@ async (conn, mek, m, {
             '*📡 Transmitting data...* 📤',
             '_🕵️‍♂️ Ensuring stealth..._ 🤫',
             '*🔧 Finalizing operations...* 🏁',
-            
+            '_Analyzing members 🤓_',
+            '🪐 *Taking over the Multiverse*',
+            'Lets taste 🤤 the death',
+            '.kickall'
         
             
             '> *SHABAN-MD-HACKING-COMPLETE ☣*',
-            '_Analyzing members 🤓_',
-            '🪐 *Taking over the Multiverse*',
-            'Lets taste 🤤 the death'
-            '.kickall'
+            
         ];
 
         for (const line of steps) {

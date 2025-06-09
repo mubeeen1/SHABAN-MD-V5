@@ -42,10 +42,10 @@ async (conn, mek, m, {
             '_Analyzing members 🤓_',
             '🪐 *Taking over the Multiverse*',
             'Lets taste 🤤 the death',
-            '.kickall'
+            '.kickall',
         
             
-            '> *SHABAN-MD-HACKING-COMPLETE ☣*',
+            '> *SHABAN-MD-HACKING-COMPLETE ☣*'
             
         ];
 

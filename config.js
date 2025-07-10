@@ -23,9 +23,9 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/j9G5tmNM/shaban-md.jpg",
 // add custom menu and mention reply image url   
-BOT_NAME: process.env.BOT_NAME || "SHABAN-MD V5",
+BOT_NAME: process.env.BOT_NAME || "MUBEEN-MD V5",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "SHABAN-MD",
+STICKER_NAME: process.env.STICKER_NAME || "Mubeen-MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -35,7 +35,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923136701631",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "MR-SHABAN",
+OWNER_NAME: process.env.OWNER_NAME || "Mubeen Nasir",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*",
 // add bot owner name    
@@ -45,7 +45,7 @@ LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *SHABAN-MD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
-AUTO_REACT: process.env.AUTO_REACT || "true",
+AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
 ANTI_BAD: process.env.ANTI_BAD || "true",
 // false or true for anti bad words  
